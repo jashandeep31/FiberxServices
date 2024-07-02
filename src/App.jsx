@@ -25,7 +25,7 @@ function App() {
             <HeroSection />
           </>
         } />
-        <Route path="/contact" element={<ContactUs />} />
+        <Route path="/contact" exact element={<ContactUs />} />
         <Route path="/services" element={<KeyService/>} />
         <Route path="/about" element={<About/>} />
         <Route path="/privacy-policy" element={<PrivacyPolicy/>} />

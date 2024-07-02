@@ -6,7 +6,7 @@ function Banner() {
       <img 
         src="https://www.dataentryindia.co.in/wp-content/themes/dataentryindia/images/home_banner.webp" 
         alt="Banner" 
-        className="w-full object-cover h-64 md:h-96"
+        className="w-full object-cover"
       />
     </div>
   );

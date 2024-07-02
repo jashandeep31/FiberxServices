@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 function Footer() {
   return (
-    <footer className="bg-gray-800 text-gray-300 py-8">
+    <footer className="bg-gray-800 text-gray-300 py-8 pl-4">
       <div className="container mx-auto flex flex-col items-start md:items-center">
         <div className="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-4 mb-4">
           <NavLink to="/" className="hover:text-white" activeClassName="text-white">Home</NavLink>
@@ -14,7 +14,7 @@ function Footer() {
           <NavLink to="/earning-disclaimer" className="hover:text-white" activeClassName="text-white">Earnings Disclaimer</NavLink>
         </div>
         <div className="text-sm text-center">
-          © 2024 OnlineDataEntryJob.com. All rights reserved.
+          © 2024 Fiberx Services. All rights reserved.
         </div>
       </div>
     </footer>

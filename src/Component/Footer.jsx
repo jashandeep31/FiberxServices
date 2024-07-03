@@ -20,13 +20,7 @@ function Footer() {
           >
             Contact Us
           </NavLink>
-          <NavLink
-            to="/partners"
-            className="hover:text-white"
-            activeClassName="text-white"
-          >
-            Partners
-          </NavLink>
+
           <NavLink
             to="/terms-conditions"
             className="hover:text-white"

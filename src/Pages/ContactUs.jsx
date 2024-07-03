@@ -44,7 +44,9 @@ function ContactUs() {
           />
           <div>
             <h2 className="text-xl font-semibold text-blue-600">Address</h2>
-            <p className="text-gray-700">123 Fiberx Street, City, Country</p>
+            <p className="text-gray-700">
+              Sanghpura karigaron ke mandir tonk ,tonk rajsthan 304001
+            </p>
           </div>
         </div>
       </div>
